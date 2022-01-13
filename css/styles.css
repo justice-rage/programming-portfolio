@@ -14,3 +14,7 @@
 .centered-object {
   text-align: center;
 }
+
+img {
+  float: none;
+}
