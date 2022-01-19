@@ -19,7 +19,6 @@ _This application is my first independent project created during my time at the 
 ## Setup/Installation Requirements
 
 * _Clone project from GitHub repository to local machine._
-* _Open project from terminal via "code ." command or through a GUI._
 * _Navigate to your file manager and click on the HTML file to open in your browser._
 * _Enjoy my portfolio wesbite._
 
