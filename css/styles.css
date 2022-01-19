@@ -2,9 +2,6 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Added separate class for profile-pic to experiment with float styling.
-Unable to locate aesthetically pleasing float utilization for profile-pic.
-Let me know if 'float: none' is enough to satisfy project float requirements. */
 .profile-pic {
   border: 3px solid black;
   padding: 20px;
@@ -35,9 +32,3 @@ Let me know if 'float: none' is enough to satisfy project float requirements. */
 .centered-object {
   text-align: center;
 }
-
-/* img {
-  border-radius: 4px;
-  width: 150px;
-  height: auto;
-} */
