@@ -39,6 +39,19 @@
   font-size: small;
 }
 
+.navbar  {
+  border: 3px solid black;
+  background-color: whitesmoke;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 49%;
+}
+
+.navbar-brand {
+  color: black;
+}
+
 /* element */
 
 hr{
