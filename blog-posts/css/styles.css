@@ -1,0 +1,46 @@
+/* class */
+
+.introduction {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.profile-pic {
+  border: 3px solid black;
+  padding: 20px;
+  background-color: whitesmoke;
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  float: none;
+  height: 50%;
+  width: 50%;
+}
+
+.information {
+  border: 3px solid black;
+  padding: 20px;
+  background-color: whitesmoke;
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 49%;
+  box-sizing: border-box;
+  float: none;
+}
+
+.centered-object {
+  text-align: center;
+}
+
+.post-info  {
+  font-size: small;
+}
+
+/* element */
+
+hr{
+  background-color: black;
+}
