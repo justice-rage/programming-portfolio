@@ -61,6 +61,7 @@ body {
   border-bottom: .25rem solid transparent;
 }
 
+/* highlights hovered nav-item */
 .nav-masthead .nav-link:hover,
 .nav-masthead .nav-link:focus {
   border-bottom-color: white;
@@ -70,9 +71,10 @@ body {
   margin-left: 1rem;
 }
 
+/* highlights nav-home regardless of page */
 .nav-masthead .active {
   color: #fff;
-  /* border-bottom-color: #fff; */
+  border-bottom-color: #fff;
 }
 
 @media (min-width: 48em) {
