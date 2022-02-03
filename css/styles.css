@@ -63,7 +63,7 @@ body {
 
 .nav-masthead .nav-link:hover,
 .nav-masthead .nav-link:focus {
-  border-bottom-color: rgba(255, 255, 255, .25);
+  border-bottom-color: white;
 }
 
 .nav-masthead .nav-link + .nav-link {
@@ -104,7 +104,7 @@ body {
   width: 200;
 }
 
-.blog-title {
+.page-title {
   text-align: center;
 }
 

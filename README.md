@@ -4,7 +4,7 @@
 
 #### Application Description
 
-_This application is my first independent project created during my time at the Epicodus bootcamp. This project is my new professional portfolio meant to showcase programming projects I've worked on, professional history, education and a little about me including interests and hobbies. It is a one page website._
+_This application is my first independent project created during my time at the Epicodus bootcamp. This project is my new professional portfolio meant to showcase programming projects I've worked on, professional history, education and a little about me including interests and hobbies. It was originally a one page site that has evolved into multiple pages. This site will continuously evolve as I learn new technologies and frameworks over time._
 
 ## GitHub Pages Link
 
