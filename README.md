@@ -15,7 +15,6 @@ _This application is my first independent project created during my time at the 
 * _Bootstrap_
 * _CSS_
 * _HTML_
-* _jQuery_
 
 ## Setup/Installation Requirements
 
