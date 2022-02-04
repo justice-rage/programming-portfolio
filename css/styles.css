@@ -108,6 +108,10 @@ body {
   text-align: center;
 }
 
+.headline {
+  color: rgba(255, 255, 255, .5);
+}
+
 /*
  * Footer
  */
