@@ -12,7 +12,7 @@ _This application is my first independent project created during my time at the 
 
 ## Main Link
 
-* _[www.justicedouglas.com](www.justicedouglas.com)_
+* _[https://justicedouglas.com/](https://justicedouglas.com/)_
 
 ## Technologies Used
 
