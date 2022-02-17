@@ -8,7 +8,11 @@ _This application is my first independent project created during my time at the 
 
 ## GitHub Pages Link
 
-* _[https://mr-justice.github.io/programming-portfolio/](https://justicepelteir.github.io/programming-portfolio/)_
+* _[https://justicepelteir.github.io/programming-portfolio/](https://justicepelteir.github.io/programming-portfolio/)_
+
+## Main Link
+
+* _[www.justicedouglas.com](www.justicedouglas.com)_
 
 ## Technologies Used
 
